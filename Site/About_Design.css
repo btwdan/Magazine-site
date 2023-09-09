@@ -1,0 +1,11 @@
+.main p{
+    margin-left: 200px;
+    font-size: 1.145em;
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+
+.main p p{
+    text-decoration: none;
+    color: black;
+}

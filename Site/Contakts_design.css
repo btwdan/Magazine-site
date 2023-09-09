@@ -1,0 +1,14 @@
+.main p{
+    margin-left: 250px;
+    font-size: 1.145em;
+}
+
+.main p a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.main div{
+    margin-bottom: 330px;
+}
